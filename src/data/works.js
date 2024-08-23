@@ -18,7 +18,7 @@ export default [
 		imgUrl:
 			'https://imgur.com/a/YgE3sCf',
 		tech: ['Canva', 'photoshop'],
-		workUrl: 'https://github.com/ShaifArfan/AYANs-portfolio',
+		//workUrl: 'https://github.com/ShaifArfan/AYANs-portfolio',
 	},
 
 ];
