@@ -3,7 +3,7 @@ export default [
 		title: 'Farmcraft Technologies',
 		imgUrl:
 			'https://github.com/AbiodunCreatives/imagehost/blob/main/Screenshot_20240823-032900_Chrome.jpg',
-		tech: ['Tailwind', 'Reactjs', 'Firebase'],
+		tech: ['Responsive', 'Fast'],
 		workUrl: 'https://farmcraft.ng/',
 	},
 	{
