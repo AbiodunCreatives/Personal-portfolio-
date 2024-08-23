@@ -8,7 +8,7 @@ function HeroSection() {
 					Hi, I'm Abiodun
 				</h1>
 				<p className="text-md md:text-xl max-w-md mb-3 text-gray-600 dark:text-gray-300">
-					I Specialize in Building Fast,Scalable and Responsive Websites and Software Solutions that Adapts to Your Specific Needs{' '}
+					I Specialize in building Fast,Scalable and Responsive Websites and Software Solutions that Adapts to Your Specific Needs{' '}
 				</p>
 				<a
 					href="#works"
