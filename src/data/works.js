@@ -4,7 +4,7 @@ export default [
 		imgUrl:
 			'https://github.com/AbiodunCreatives/imagehost/blob/main/Screenshot_20240823-032900_Chrome.jpg',
 		tech: ['Responsive', 'Fast'],
-		workUrl: 'https://farmcraft.ng/',
+		workUrl: 'https://famcraft.ng/',
 	},
 	{
 		title: "Agricversity Landing page",
