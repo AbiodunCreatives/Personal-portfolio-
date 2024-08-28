@@ -20,5 +20,12 @@ export default [
 		tech: ['Canva', 'photoshop'],
 		//workUrl: 'https://github.com/ShaifArfan/AYANs-portfolio',
 	},
+       {
+		title: "Farmtraka Branding",
+		imgUrl:
+			'https://imgur.com/a/XEiyoxb',
+		tech: ['Canva', 'photoshop'],
+		//workUrl: 'https://github.com/ShaifArfan/AYANs-portfolio',
+	},
 
 ];
